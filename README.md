@@ -99,3 +99,34 @@ urlpatterns = [
 - you get `django-admin` CLI tool
 - you get `sqlite3` database
 - you get `development server`
+
+
+### Cookiecutter
+https://cookiecutter.readthedocs.io/en/stable/
+
+- Tool to create skeleton of project
+- Django creates a template of project for you automatically 
+- This is similar to how cookiecutter works
+
+
+### Django request flow
+
+
+
+
+### Monolith vs Microservices
+https://aws.amazon.com/microservices/
+
+```markdown
+
+- Identity and Access Management (IDAM)
+- login and signup
+		HTTP POST 127.0.0.1:8000/login
+				username
+				password
+
+{"message": "login successful"}
+		
+
+- React/ PHP API
+```
